@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Big mommas pizza/1.0.0": {
+        "runtime": {
+          "Big mommas pizza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Big mommas pizza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

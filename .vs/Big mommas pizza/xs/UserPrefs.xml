@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0CD84F95-6C85-407C-AF1A-C66CA2653607}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Big mommas pizza/Store.cs">
+    <Files>
+      <File FileName="Big mommas pizza/Pizza.cs" />
+      <File FileName="Big mommas pizza/Topping.cs" />
+      <File FileName="Big mommas pizza/Customer.cs" />
+      <File FileName="Big mommas pizza/Order.cs" />
+      <File FileName="Big mommas pizza/Store.cs" Line="24" Column="54" />
+      <File FileName="Big mommas pizza/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Big mommas pizza" expanded="True">
+            <Node name="Big mommas pizza" expanded="True">
+              <Node name="Store.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Big_220mommas_220pizza PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

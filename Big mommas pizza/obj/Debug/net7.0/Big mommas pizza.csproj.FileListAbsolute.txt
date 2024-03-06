@@ -1,0 +1,15 @@
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.csproj.AssemblyReference.cache
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.AssemblyInfoInputs.cache
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.AssemblyInfo.cs
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.csproj.CoreCompileInputs.cache
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/bin/Debug/net7.0/Big mommas pizza
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/bin/Debug/net7.0/Big mommas pizza.deps.json
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/bin/Debug/net7.0/Big mommas pizza.runtimeconfig.json
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/bin/Debug/net7.0/Big mommas pizza.dll
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/bin/Debug/net7.0/Big mommas pizza.pdb
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.dll
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/refint/Big mommas pizza.dll
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.pdb
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/Big mommas pizza.genruntimeconfig.cache
+/Users/andreasboye-hansen/Projects/Big mommas pizza/Big mommas pizza/obj/Debug/net7.0/ref/Big mommas pizza.dll
